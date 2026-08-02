@@ -156,7 +156,7 @@ Sections include:
 ## Executive Dashboard
 Provides an overview of revenue, customers, transactions, seasonal performance, and revenue drivers.
 
-<p align="center" <img width="900" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/16b062a4-0684-4bc9-9ec8-7f2b58d90e8d" > </p>
+<p align="center"> <img width="900" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/16b062a4-0684-4bc9-9ec8-7f2b58d90e8d" > </p>
 
 
 ---
@@ -164,7 +164,7 @@ Provides an overview of revenue, customers, transactions, seasonal performance, 
 ## Customer & Marketing Insights
 Analyzes customer behavior, subscription trends, payment methods, shipping preferences, and promotional effectiveness.
 
-<p align="center"<img width="900" alt="Customer   Marketing Insights" src="https://github.com/user-attachments/assets/ab2ff8a5-cc73-4039-a8a2-9e14de5f4961" ></p>
+<p align="center"><img width="900" alt="Customer   Marketing Insights" src="https://github.com/user-attachments/assets/ab2ff8a5-cc73-4039-a8a2-9e14de5f4961" ></p>
 
 
 ---
@@ -172,7 +172,7 @@ Analyzes customer behavior, subscription trends, payment methods, shipping prefe
 ## Product Insights
 Highlights product performance, seasonal demand, color and size preferences, and top-selling products.
 
-<p align="center"<img width="900"  alt="Product Insights" src="https://github.com/user-attachments/assets/287398d4-b899-413a-9260-0db10b7f27a8" ></p>
+<p align="center"><img width="900"  alt="Product Insights" src="https://github.com/user-attachments/assets/287398d4-b899-413a-9260-0db10b7f27a8" ></p>
 
 
 ---
@@ -180,7 +180,7 @@ Highlights product performance, seasonal demand, color and size preferences, and
 ## Strategic Insights & Recommendations
 Summarizes key findings and actionable business recommendations for decision-makers.
 
-<p align="center"<img width="900"  alt="Strategic Insights   Recommendations" src="https://github.com/user-attachments/assets/5a10c8e6-48b2-4f34-b75a-ffbc17eb5f0d" > </p>
+<p align="center"><img width="900"  alt="Strategic Insights   Recommendations" src="https://github.com/user-attachments/assets/5a10c8e6-48b2-4f34-b75a-ffbc17eb5f0d" > </p>
 
 
 ---
